@@ -61,11 +61,11 @@ pip install findspark
 jupyter notebook --ip=*
 
 
-http://184.72.89.222:8888/?token=197f1bd344995416eb6b14bf4f985992ed8eca69abbe66f3
+http://<public IP>:8888/?token=XXXXXXXXXXXXXXX
 
 
 git clone https://github.com/siyad-CT/HPE_ML_WS
 
-# ssh -i "C:\tmp\jeromesparkkp.pem" ubuntu@184.72.89.222
+# ssh -i jeromesparkkp.pem ubuntu@184.72.89.222
 
 ```

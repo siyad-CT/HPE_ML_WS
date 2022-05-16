@@ -1,5 +1,8 @@
 # HPE_ML_WS
 Repository of Lab files for the HPE ML workshop by CloudThat
+
+# For Lab 1 to 10
+
 ```
 sudo apt update
 sudo apt install software-properties-common

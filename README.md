@@ -1,6 +1,6 @@
 # HPE_ML_WS
 Repository of Lab files for the HPE ML workshop by CloudThat
-
+```
 sudo apt update
 sudo apt install software-properties-common
 
@@ -61,7 +61,8 @@ jupyter notebook --ip=*
 http://184.72.89.222:8888/?token=197f1bd344995416eb6b14bf4f985992ed8eca69abbe66f3
 
 
-
 git clone https://github.com/siyad-CT/HPE_ML_WS
 
 ssh -i "C:\tmp\jeromesparkkp.pem" ubuntu@184.72.89.222
+
+```

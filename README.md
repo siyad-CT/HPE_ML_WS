@@ -21,7 +21,6 @@ pip install virtualenv
 
 
 sudo apt install openjdk-8-jdk
-export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
 
 
 
@@ -35,7 +34,7 @@ sudo chmod -R 777 /opt/spark
 echo "export SPARK_HOME=/opt/spark" >> ~/.bashrc
 echo "export PATH=$PATH:$SPARK_HOME/bin:$SPARK_HOME/sbin" >> ~/.bashrc
 echo "export PYSPARK_PYTHON=/usr/bin/python3" >> ~/.bashrc
-
+echo "export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64" >> ~/.bashrc
 
 
 source ~/.bashrc

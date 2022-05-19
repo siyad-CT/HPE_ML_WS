@@ -65,6 +65,5 @@ http://<public IP>:8888/?token=XXXXXXXXXXXXXXX
 
 git clone https://github.com/siyad-CT/HPE_ML_WS
 
-# ssh -i jeromesparkkp.pem ubuntu@184.72.89.222
 
 ```
